@@ -6,3 +6,5 @@ output: html_document
 ---
 
 Dit is mijn eerste Rmarkdown bestand op git!!
+
+New branch aanpassing!!
